@@ -1,0 +1,11 @@
+AULA 3
+
+app.module.ts: Modulo raiz. É onde vamos declarar todos os componentes que criarmos. Eles vao ficar no objeto declarations.
+
+app.component.html: arquivo onde vamos colocar os componentes e montar as telas.
+
+app.routing.module.ts: dentro daqui vamos mapear/mostrar pro angular o componente que ele deve abrir.
+
+shared: pasta onde vamos colocar arquivos que são usados por toda a aplicação
+
+Para fazer as chamadas das api's, vamos usar o HTTP Client
